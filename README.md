@@ -4,10 +4,15 @@ Incorrect quotes generator is a nodejs application for posting quotes to faceboo
 
 ## Installation
 
-Get your facebook token[here](https://developers.facebook.com/tools/explorer/) and paste it into .env
+1. Get your facebook token [here](https://developers.facebook.com/tools/explorer/) and paste it into .env
 
 ```bash
 echo 'TOKEN=[YOUR TOKEN]' > .env
+```
+
+2. Install package 
+```bash
+npm install
 ```
 
 ## Usage
