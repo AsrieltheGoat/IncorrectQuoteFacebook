@@ -4,7 +4,7 @@ Incorrect quotes generator is a nodejs application for posting quotes to faceboo
 
 ## Installation
 
-1. Get your facebook token [here](https://developers.facebook.com/tools/explorer/) and paste it into .env
+1. Create an application on [Facebook developer](https://developers.facebook.com/apps/), generate your facebook token [here](https://developers.facebook.com/tools/explorer/) and paste it into .env
 
 ```bash
 echo 'TOKEN=[YOUR TOKEN]' > .env
